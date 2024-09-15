@@ -1,1 +1,1 @@
-# fruitai
+# Fruit.ai
